@@ -139,3 +139,15 @@ int main(int argc, char* argv[])
     //exit(EXIT_SUCCESS);
 }
 
+
+/*
+make compila
+bin/nombreDelArchivo ejecuta
+echo
+touch
+grep
+| salida de uno es la entrada de otro
+wc
+< cambia la entrada standard
+> cambia la salida standard
+*/
